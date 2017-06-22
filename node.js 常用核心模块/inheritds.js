@@ -23,4 +23,4 @@ let objB = new B();
 objB.showName(); // valFB
 let objC = new C();
 objC.showName(); // valFC
-objC.fun(); //报错，不能继承B
+objC.fun(); //报错, 不能继承B

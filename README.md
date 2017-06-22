@@ -3,9 +3,10 @@ nodeJS
 nodeJS常用核心模块
 ------
 ### util.inherits
-		util.inherits实现对象间原型继承的函数。通俗的讲就是B继承自A，利用util.inherits(C, B)实现C继承A的函数但不继承B，是不是很简单，哈哈哈哈！！！
+		util.inherits实现对象间原型继承的函数。
+		> 通俗的讲就是B继承自A，利用util.inherits(C, B)实现C继承A的函数但不继承B，是不是很简单，哈哈哈哈！！！
 		举个栗子吧：
-		>>> javascript
+		```javascript
 		const util = require("util");
 
 		function B () {
@@ -28,6 +29,7 @@ nodeJS常用核心模块
 		objB.showName(); // valFB
 		let objC = new C();
 		objC.showName(); // valFC
-		objC.fun(); //报错，不能继承B <<<
+		objC.fun(); //报错，不能继承B
+		```
 
 
