@@ -2,7 +2,7 @@ nodeJS
 ======
 nodeJS常用核心模块
 ------
-#### * util.inherits
+## util.inherits
 实现对象间原型继承的函数。通俗的讲就是B继承自A，利用util.inherits(C, B)实现C继承A的函数但不继承B，是不是很简单，哈哈哈哈！！！
 ###### 举个栗子吧：
 
