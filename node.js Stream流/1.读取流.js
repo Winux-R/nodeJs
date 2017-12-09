@@ -15,8 +15,6 @@ readStream.on("data", function (chunk) {
 
 readStream.on("end",function () {
     console.log(data);
-
-
 });
 
 readStream.on("error", function () {
