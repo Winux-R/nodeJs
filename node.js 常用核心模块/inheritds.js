@@ -12,6 +12,10 @@ function B() {
 
 B.prototype.showName = function () {
     console.log(this.value);
+
+
+
+
 };
 
 function C() {
