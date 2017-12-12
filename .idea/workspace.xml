@@ -2,27 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f83b5824-dc24-46d1-ae8b-cd6805ce5e3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/jpg/0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/jpg/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/jpg/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/jpg/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/01.helloWorld.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/02.staticRender.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/03.http.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/04.req.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/05.url.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/06.url.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/07.route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/08.fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/09.fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/10.fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/album/aaa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/album/bbb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/css/test.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/html/1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/html/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第一天/txt/test.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nodeJs.iws" />
@@ -380,7 +359,7 @@
       <workItem from="1499153865792" duration="31000" />
       <workItem from="1512832435544" duration="359000" />
       <workItem from="1512963737224" duration="2284000" />
-      <workItem from="1513045073727" duration="15691000" />
+      <workItem from="1513045073727" duration="15748000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1512832602840</created>
@@ -396,22 +375,29 @@
       <option name="project" value="LOCAL" />
       <updated>1512832713517</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="删除空格">
+      <created>1513073879228</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513073879228</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25071000" />
+    <option name="totallyTimeSpent" value="25128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1070" y="0" width="1100" height="1390" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24808429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24808429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3277311" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277311" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
