@@ -388,7 +388,7 @@
       <workItem from="1512963737224" duration="2284000" />
       <workItem from="1513045073727" duration="17000000" />
       <workItem from="1513157235546" duration="5218000" />
-      <workItem from="1513216205226" duration="5001000" />
+      <workItem from="1513216205226" duration="5034000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1512832602840</created>
@@ -425,11 +425,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513221357361</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nodejs学习编码 http fs path url">
+      <created>1513241254377</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1513241254377</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36599000" />
+    <option name="totallyTimeSpent" value="36632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1070" y="0" width="1100" height="1390" extended-state="0" />
