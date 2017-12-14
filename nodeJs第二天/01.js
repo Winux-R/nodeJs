@@ -8,4 +8,4 @@ http.createServer( (req, res) => {
     res.end("成功");
 }).listen(3000, () => {
     console.log("server start");
-})
+});
