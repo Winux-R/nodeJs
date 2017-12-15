@@ -1,273 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f83b5824-dc24-46d1-ae8b-cd6805ce5e3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/all/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/be/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/bg/courseBg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/bg/dot_del.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/bg/follow_label.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/data/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/elevator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/fe/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/footer-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/gsearch-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/head-app-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/icon_msg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/ipt-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/ln_mksq.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/menu_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/mobile/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/nlogin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/photo/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/photo/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/photo/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/photo/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/photo/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/photo/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/photo/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/photo/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/touxiang/e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/touxiang/linan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/touxiang/wujiatian.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/touxiang/yangtonghui.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/touxiang/zhangling.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/user_card_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/wenda_tx/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/wenda_tx/02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/wenda_tx/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/wenda_tx/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/wenda_tx/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/wenda_tx/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/wenda_tx/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/image/wenda_tx/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 2 天/09.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 2 天/ejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 2 天/ejs/09.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/05.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/ejs/form.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/css/Ngrade_login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/css/centerRight.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/css/comQ.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/css/dmb.bottom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/css/dmb.header.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/css/public.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/css/zhanshi.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/css/zz.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/jq/comQ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/jq/jquery-1.11.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/jq/template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/jq/underscore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/js/Ngrade_login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/js/dj_goto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/js/dj_hot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/js/dj_label.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/js/dj_leifeng.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/js/footer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/js/headerPart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/js/jt_comQ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/js/mainPart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/js/zhanshi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/js/zz_myAjax0.2.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/all.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/android.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/angularjs.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/be.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/bootstrap.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/c3.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/cjiajia.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/cocos2d.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/csharp.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/dashuju.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/fe.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/fetools.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/go.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/h5.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/hc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/hot.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/ios.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/javaee.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/jq.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/js.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/label.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/leifeng.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/linux.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/maya.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/mobile.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/mongodb.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/mysql.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/nodejs.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/oracle.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/photo.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/photoshop.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/php.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/promiere.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/python.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/sql.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/unity3d.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/userMsg.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/webapp.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/weda.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/yunjisuan.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/json/zhanshi.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodeJs第 3 天/public/sq.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/01.helloWorld.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/01.helloWorld.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/02.staticRender.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/02.staticRender.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/03.http.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/03.http.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/04.req.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/04.req.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/05.url.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/05.url.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/06.url.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/06.url.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/07.route.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/07.route.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/08.fs.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/08.fs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/09.fs.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/09.fs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/10.fs.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/10.fs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/11.fs.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/11.fs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/12.static.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/12.static.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/album/aaa.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/album/aaa.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/album/bbb.js" afterPath="$PROJECT_DIR$/nodeJs第 1 天/album/bbb.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/css/test.css" afterPath="$PROJECT_DIR$/nodeJs第 1 天/css/test.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/html/1.html" afterPath="$PROJECT_DIR$/nodeJs第 1 天/html/1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/html/test.html" afterPath="$PROJECT_DIR$/nodeJs第 1 天/html/test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/jpg/0.jpg" afterPath="$PROJECT_DIR$/nodeJs第 1 天/jpg/0.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/jpg/1.jpg" afterPath="$PROJECT_DIR$/nodeJs第 1 天/jpg/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/jpg/2.jpg" afterPath="$PROJECT_DIR$/nodeJs第 1 天/jpg/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/jpg/3.jpg" afterPath="$PROJECT_DIR$/nodeJs第 1 天/jpg/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/static/1.html" afterPath="$PROJECT_DIR$/nodeJs第 1 天/static/1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/static/404.html" afterPath="$PROJECT_DIR$/nodeJs第 1 天/static/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/static/image/0.jpg" afterPath="$PROJECT_DIR$/nodeJs第 1 天/static/image/0.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/static/index.html" afterPath="$PROJECT_DIR$/nodeJs第 1 天/static/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第一天/txt/test.txt" afterPath="$PROJECT_DIR$/nodeJs第 1 天/txt/test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/01.js" afterPath="$PROJECT_DIR$/nodeJs第 2 天/01.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/02.js" afterPath="$PROJECT_DIR$/nodeJs第 2 天/02.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/03.js" afterPath="$PROJECT_DIR$/nodeJs第 2 天/03.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/04.js" afterPath="$PROJECT_DIR$/nodeJs第 2 天/04.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/05.js" afterPath="$PROJECT_DIR$/nodeJs第 2 天/05.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/06.js" afterPath="$PROJECT_DIR$/nodeJs第 2 天/06.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/07.js" afterPath="$PROJECT_DIR$/nodeJs第 2 天/07.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/08.js" afterPath="$PROJECT_DIR$/nodeJs第 2 天/08.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/html/aa.html" afterPath="$PROJECT_DIR$/nodeJs第 2 天/html/aa.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/router.js" afterPath="$PROJECT_DIR$/nodeJs第 2 天/router.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/static/1.html" afterPath="$PROJECT_DIR$/nodeJs第 2 天/static/1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/static/404.html" afterPath="$PROJECT_DIR$/nodeJs第 2 天/static/404.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/static/image/0.jpg" afterPath="$PROJECT_DIR$/nodeJs第 2 天/static/image/0.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/static/index.html" afterPath="$PROJECT_DIR$/nodeJs第 2 天/static/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/test/foo.js" afterPath="$PROJECT_DIR$/nodeJs第 2 天/test/foo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/uploads/upload_012b1180ff931f4071e402d148b49d47" afterPath="$PROJECT_DIR$/nodeJs第 2 天/uploads/upload_012b1180ff931f4071e402d148b49d47" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/uploads/upload_35f38e13ce6a05a7045d9d31a48348a1.jpg" afterPath="$PROJECT_DIR$/nodeJs第 2 天/uploads/upload_35f38e13ce6a05a7045d9d31a48348a1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodeJs第二天/uploads/upload_d3c21257d6221652c1ca13ede87f936a" afterPath="$PROJECT_DIR$/nodeJs第 2 天/uploads/upload_d3c21257d6221652c1ca13ede87f936a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+    <list default="true" id="f83b5824-dc24-46d1-ae8b-cd6805ce5e3f" name="Default" comment="nodejs学习编码 路由设计 express">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="2849a7e7-ac22-4c8d-ac27-38219e882886" name="Rejected commit: Default" comment="nodejs学习编码 简单学习模板引擎ejs 了解了jade">
@@ -319,8 +53,8 @@
       <file leaf-file-name="05.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nodeJs第 3 天/05.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="629">
+              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
@@ -460,6 +194,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -507,7 +242,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -655,7 +389,8 @@
       <workItem from="1513248007747" duration="1061000" />
       <workItem from="1513303100933" duration="6115000" />
       <workItem from="1513322698764" duration="8254000" />
-      <workItem from="1513334097993" duration="21000" />
+      <workItem from="1513334097993" duration="96000" />
+      <workItem from="1513334220896" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1512832602840</created>
@@ -741,17 +476,24 @@
       <option name="project" value="LOCAL" />
       <updated>1513308557631</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="nodejs学习编码 路由设计 express">
+      <created>1513334156014</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1513334156014</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58660000" />
+    <option name="totallyTimeSpent" value="58747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1070" y="0" width="1100" height="1390" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24329501" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24233717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -810,7 +552,8 @@
     <MESSAGE value="nodejs学习编码 模块 post" />
     <MESSAGE value="nodejs学习编码 编写简单图片提交保存到指定文件夹中的小工具" />
     <MESSAGE value="nodejs学习编码 简单学习模板引擎ejs 了解了jade" />
-    <option name="LAST_COMMIT_MESSAGE" value="nodejs学习编码 简单学习模板引擎ejs 了解了jade" />
+    <MESSAGE value="nodejs学习编码 路由设计 express" />
+    <option name="LAST_COMMIT_MESSAGE" value="nodejs学习编码 路由设计 express" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1170,8 +913,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nodeJs第 3 天/05.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="629">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding>
             <element signature="e#0#44#0" expanded="false" />
           </folding>
