@@ -18,7 +18,7 @@ http.createServer( (req, res) => {
         });
     } else if (req.url === "/") {
         fs.readFile("./html/aa.html", (err, data) => {
-            res.writeHead(200, {"Content-type": "text/html;charset=UTF-8"})
+            res.writeHead(200, {"Content-type": "text/html;charset=UTF-8"});
             res.end(data);
         });
     }

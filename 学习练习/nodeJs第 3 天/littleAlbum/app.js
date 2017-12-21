@@ -2,7 +2,7 @@
  * Created by VictorJin on 2017/12/20.
  */
 const express = require("express");
-const route = require("./controller");
+const route = require("./controller/route");
 
 const app = express();
 
