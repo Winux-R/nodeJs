@@ -2,257 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e5dc849-1b46-4bfc-9302-68f503946dd0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/node.js Stream流/input.txt.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/jpg/0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/jpg/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/jpg/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/jpg/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/static/image/0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/static/image/0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/uploads/upload_012b1180ff931f4071e402d148b49d47" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/uploads/upload_052bca10d31ebce32d46857aac1dbdee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/uploads/upload_35f38e13ce6a05a7045d9d31a48348a1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/uploads/upload_d3c21257d6221652c1ca13ede87f936a" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/images/404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/images/wjj.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/uploads/小狗/0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/uploads/小狗/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/uploads/小狗/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/uploads/小狗/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/uploads/小猫/0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/uploads/小猫/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/uploads/小猫/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/uploads/小猫/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package1/314565.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package1/314567.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package1/314568.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package1/314581.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package1/314588.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package1/314622.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package1/314625.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package2/314565.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package2/314567.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package2/314568.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package2/314581.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package2/314588.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package2/314622.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/images/package2/314625.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/images/404.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/images/timg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/images/wjj.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/images/wjj2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nodejs_.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/ndoeJs 路由/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/ndoeJs 路由/router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/ndoeJs 路由/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/node.js Stream流/1.读取流.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/node.js Stream流/2.写入流.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/node.js Stream流/3.管道流.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/node.js Stream流/4.链式流.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/node.js Stream流/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/node.js Stream流/input.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/node.js Stream流/inputPipe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/node.js Stream流/output.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/node.js Stream流/outputPipe.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/node.js 常用核心模块/inheritds.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/01.helloWorld.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/02.staticRender.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/03.http.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/04.req.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/05.url.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/06.url.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/07.route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/08.fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/09.fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/10.fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/11.fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/12.static.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/album/aaa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/album/bbb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/css/test.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/html/1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/html/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/static/1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/static/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 1 天/txt/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/05.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/06.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/07.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/08.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/09.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/ejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/ejs/09.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/html/aa.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/static/1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/static/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 2 天/test/foo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/02.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/03.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/04.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/05.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/06.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/07.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/controller/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/controller/route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/models/files.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/js/jquery-1.11.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/public/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/views/album.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/views/err.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/views/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/学习练习/nodeJs第 3 天/views/form.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/control/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/control/route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/module/ImagesGet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/js/jquery-1.11.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/public/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/views/404.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/views/imgPage.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/项目实战/albumDIY/views/startPage.ejs" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ndoeJs 路由/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ndoeJs 路由/router.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ndoeJs 路由/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js Stream流/1.读取流.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js Stream流/2.写入流.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js Stream流/3.管道流.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js Stream流/4.链式流.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js Stream流/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js Stream流/input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js Stream流/input.txt.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js Stream流/inputPipe.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js Stream流/output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js Stream流/outputPipe.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node.js 常用核心模块/inheritds.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/01.helloWorld.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/02.staticRender.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/03.http.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/04.req.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/05.url.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/06.url.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/07.route.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/08.fs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/09.fs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/10.fs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/11.fs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/12.static.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/album/aaa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/album/bbb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/css/test.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/html/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/html/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/jpg/0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/jpg/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/jpg/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/jpg/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/static/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/static/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/static/image/0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/static/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 1 天/txt/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/01.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/02.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/03.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/04.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/05.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/06.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/07.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/08.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/09.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/ejs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/ejs/09.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/html/aa.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/router.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/static/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/static/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/static/image/0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/static/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/test/foo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/uploads/upload_012b1180ff931f4071e402d148b49d47" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/uploads/upload_35f38e13ce6a05a7045d9d31a48348a1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 2 天/uploads/upload_d3c21257d6221652c1ca13ede87f936a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/01.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/02.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/03.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/04.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/05.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/06.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/07.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/controller/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/controller/route.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/models/files.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/images/404.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/images/wjj.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/js/jquery-1.11.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/public/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/uploads/小狗/0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/uploads/小狗/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/uploads/小狗/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/uploads/小狗/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/uploads/小猫/0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/uploads/小猫/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/uploads/小猫/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/uploads/小猫/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/views/album.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/views/err.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/littleAlbum/views/index.ejs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nodeJs第 3 天/views/form.ejs" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/学习练习/nodeJs第 4 天/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/学习练习/nodeJs第 4 天/app.js.map" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/nodejs_.patch" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -268,20 +25,56 @@
   <component name="FavoritesManager">
     <favorites_list name="nodeJs" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/学习练习/nodeJs第 4 天/app.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/学习练习/nodeJs第 2 天/node_modules" />
+    <handled-path value="$PROJECT_DIR$/学习练习/nodeJs第 3 天/littleAlbum/node_modules" />
+    <handled-path value="$PROJECT_DIR$/学习练习/nodeJs第 3 天/node_modules" />
+    <handled-path value="$PROJECT_DIR$/学习练习/nodeJs第 4 天/node_modules" />
+    <handled-path value="$PROJECT_DIR$/项目实战/albumDIY/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="2176" />
-    <option name="height" value="1416" />
+    <option name="x" value="1073" />
+    <option name="width" value="1094" />
+    <option name="height" value="1407" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -300,15 +93,130 @@
     <panes>
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="学习练习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeJs第 4 天" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodeJs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="学习练习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../node-v8.9.3" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="C:\Users\jinxin\AppData\Roaming\npm\node_modules\eslint" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\nodeJs\学习练习\nodeJs第 4 天\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -321,33 +229,44 @@
       <option name="presentableId" value="Default" />
       <updated>1513844847656</updated>
       <workItem from="1513844848808" duration="32000" />
-      <workItem from="1513844898783" duration="21000" />
+      <workItem from="1513844898783" duration="903000" />
+      <workItem from="1513913427848" duration="816000" />
+      <workItem from="1513914338965" duration="184000" />
+      <workItem from="1513914601632" duration="3087000" />
     </task>
+    <task id="LOCAL-00001" summary="利用express nodehs ejs 编写简单的相册">
+      <created>1513844990338</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513844990338</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53000" />
+    <option name="totallyTimeSpent" value="5022000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2176" height="1416" extended-state="6" />
+    <frame x="1073" y="0" width="1094" height="1407" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24976614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21212122" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299293" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299293" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299532" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299293" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914376" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,8 +275,46 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="利用express nodehs ejs 编写简单的相册" />
+    <option name="LAST_COMMIT_MESSAGE" value="利用express nodehs ejs 编写简单的相册" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/学习练习/nodeJs第 4 天/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习练习/nodeJs第 4 天/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习练习/nodeJs第 4 天/views/add.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习练习/nodeJs第 4 天/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
